@@ -1,0 +1,26 @@
+@Article{lorem,
+  author =       {John Doe},
+  title =        {Lorem Ipsum},
+  journal =      {SEDUT perspiciatis},
+  year =         {2010}
+}
+
+@Proceedings{ipsum,
+  title =        {Dolor sit amet},
+  organization = {At vero EOS},
+  year = {2011}
+}
+
+@phdthesis{figueiredo,
+  title={Par{\^a}metros ac{\'u}sticos subjetivos: Crit{\'e}rios para avalia{\c{c}}{\~a}o da qualidade ac{\'u}stica de salas de m{\'u}sica},
+  author={Figueiredo, F{\'a}bio Le{\~a}o},
+  year={2005}
+}
+
+@incollection{thiollent,
+  title={Metodologia da pesquisa-a{\c{c}}{\~a}o},
+  author={Thiollent, Michel},
+  booktitle={Metodologia da pesquisa-a{\c{c}}{\~a}o},
+  year={1986},
+  publisher={Cortez}
+}

@@ -1,0 +1,52 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.2 }
+
+\bibitem[Figueiredo 2005]{figueiredo}
+\abntrefinfo{Figueiredo}{FIGUEIREDO}{2005}
+{FIGUEIREDO, F.~L.
+\emph{Par{\^a}metros ac{\'u}sticos subjetivos: Crit{\'e}rios para
+  avalia{\c{c}}{\~a}o da qualidade ac{\'u}stica de salas de m{\'u}sica}.
+Tese (Doutorado), 2005.}
+
+\bibitem[Filho 2013]{kalibro}
+\abntrefinfo{Filho}{FILHO}{2013}
+{FILHO, C.~M. de O.
+\emph{Kalibro: interpreta{\c{c}}{\~a}o de m{\'e}tricas de c{\'o}digo-fonte}.
+Tese (Doutorado) --- Universidade de S{\~a}o Paulo, 2013.}
+
+\bibitem[Gil 2002]{gil}
+\abntrefinfo{Gil}{GIL}{2002}
+{GIL, A.~C. \emph{Como elaborar projetos de pesquisa}. São Paulo, Brasil:
+  Atlas, 2002.}
+
+\bibitem[Meirelles 2013]{meirelles}
+\abntrefinfo{Meirelles}{MEIRELLES}{2013}
+{MEIRELLES, P. R.~M.
+\emph{Monitoramento de m{\'e}tricas de c{\'o}digo-fonte em projetos de software
+  livre}.
+Tese (Doutorado) --- Universidade de S{\~a}o Paulo, 2013.}
+
+\bibitem[Silva 2015]{ramon}
+\abntrefinfo{Silva}{SILVA}{2015}
+{SILVA, R.~C. da. Ferramenta de estratégia financeira apoiada por sistemas
+  multiagentes comportamentais.
+2015.}
+
+\bibitem[TORGA 2007]{torga}
+\abntrefinfo{TORGA}{TORGA}{2007}
+{TORGA, B. L.~M.
+\emph{Modelagem, simula{\c{c}}{\~a}o e otimiza{\c{c}}{\~a}o em sistemas puxados
+  de manufatura}.
+Tese (Doutorado) --- UNIVERSIDADE FEDERAL DE ITAJUB{\'A}, Minas Gerais, 2007.}
+
+\bibitem[Torres 2008]{torres}
+\abntrefinfo{Torres}{TORRES}{2008}
+{TORRES, M. H.~C. Simulação acústica no ambiente acmus. dissertação
+  (mestrado em ciência da computação).
+São Paulo, 2008.}
+
+\end{thebibliography}
